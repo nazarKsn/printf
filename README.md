@@ -1,6 +1,6 @@
 0x11. C - printf team project
 
-My team partner : Christopher Igebu
+My team partner : [Christopher Igebu](https://github.com/KSI5)
 
 Group Project:                                                                      
                                                                                     
